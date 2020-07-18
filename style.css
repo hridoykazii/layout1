@@ -1,0 +1,20 @@
+.container{
+    min-height: 100px;
+    overflow: hidden;
+    margin-bottom: 10px;
+} 
+
+.header, .hero, .body, .bar, .footer{
+    font-size: 25px;
+    color: red;
+    background-color: #FFAEC9;
+}
+.box{
+    min-height: 100px;
+    background-color: #99D9EA;
+    margin-bottom: 5px;
+}
+
+.blue{
+    background-color: blue;
+}
